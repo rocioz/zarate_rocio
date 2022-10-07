@@ -7,8 +7,7 @@
 Agregar una foto en el perfil de la cuenta de GitHub.
 Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu
 ordenador. Ver:
-https://docs.github.com/es/authentication/connecting-to-github-with-ssh/addinga-
-new-ssh-key-to-your-github-account
+https://docs.github.com/es/authentication/connecting-to-github-with-ssh/addinga-new-ssh-key-to-your-github-account
 
 ### Ejercicio 2:
 a- Crear un repositorio privado en github.com llamado “repo01”.
